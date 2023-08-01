@@ -19,7 +19,7 @@ shared_script {
 }
 
 client_script {
-    '@HPRPC-menus/client/menus.lua',
+    '@HPRPC-menus/menus.lua',
     'main.lua'
     
 }
